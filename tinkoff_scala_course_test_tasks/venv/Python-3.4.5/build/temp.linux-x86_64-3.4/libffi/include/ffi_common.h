@@ -1,1 +1,0 @@
-/home/max/dev/tinkoff_scala_course_test_tasks/venv/Python-3.4.5/Modules/_ctypes/libffi/include/ffi_common.h
